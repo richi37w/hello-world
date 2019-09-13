@@ -1,3 +1,3 @@
 # hello-world
-hello world demo
-new coder
+Richard  
+Student at U of S
